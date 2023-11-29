@@ -93,7 +93,9 @@
   "item.gtclassic.dustSapphire_-1977118202": true,
   "item.gtclassic.dustAluminium_-1210257647": true,
   "item.gtclassic.dustAluminium_813228316": true,
-  "item.gtclassic.dustSilicon_-946982480": true
+  "item.gtclassic.dustSilicon_-946982480": true,
+  "item.appliedenergistics2.material.nether_quartz_dust_-1187224328": true,
+  "item.appliedenergistics2.material.certus_quartz_dust_-1686702025": true
  },
  "extractor": {
   "item.coal_764578481": true,
@@ -164,7 +166,8 @@
   "item.itemPartCarbonFibre_1537047914": true,
   "item.itemIngotUran_229556971": true,
   "item.gtclassic.ingotThorium_-82988715": true,
-  "item.gtclassic.ingotPlutonium_836153205": true
+  "item.gtclassic.ingotPlutonium_836153205": true,
+  "item.potion_441691685": true
  },
  "massfabricatorAmplifier": {
   "ScrapAmplifier": true,
@@ -261,7 +264,21 @@
   "ingotRecycling_ingotNickel": true,
   "ingotRecycling_ingotSilicon": true,
   "ingotRecycling_ingotWroughtIron": true,
-  "ingotRecycling_ingotChromium": true
+  "ingotRecycling_ingotChromium": true,
+  "ingotRecycling_ingotUltimate": true,
+  "ingotRecycling_ingotCrystaltine": true,
+  "ingotRecycling_ingotBlackIron": true,
+  "ingotRecycling_ingotBrass": true,
+  "ingotRecycling_ingotFluixSteel": true,
+  "ingotRecycling_ingotArdite": true,
+  "ingotRecycling_ingotCobalt": true,
+  "ingotRecycling_ingotManyullyn": true,
+  "ingotRecycling_ingotZinc": true,
+  "ingotRecycling_ingotConstantan": true,
+  "ingotRecycling_ingotMithril": true,
+  "ingotRecycling_ingotSignalum": true,
+  "ingotRecycling_ingotLumium": true,
+  "ingotRecycling_ingotEnderium": true
  },
  "sawmill": {
   "tile.wood.oak_-867074482": true,
